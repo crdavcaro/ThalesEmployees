@@ -15,7 +15,21 @@ The technologies and libraries used in the project are the following:
   - Prime Icons
 - Others
   - Gravatar Image Service
+
+- The API is based on a repository pattern to separate the logic from the data access (in this case the consumption of the API rest). It consists of 4 projects:
+
+   - API
+   - Business
+   - Model
+   - Test
+
+- The Client consists of 2 modules
   
+   - employee
+   - shared
+  
+each with its corresponding components, pages and services.
+
 ## How to Start
 
 - Restore NuGet packages
