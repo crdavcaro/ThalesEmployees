@@ -15,7 +15,7 @@ The technologies and libraries used in the project are the following:
   - Prime Icons
 - Others
   - Gravatar Image Service
-  - 
+  
 ## How to Start
 
 - Restore NuGet packages
